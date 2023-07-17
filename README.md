@@ -2,7 +2,7 @@
 A basic calculator which also implements exchange rate calculations
 
 **Features**
-- Perform Basic Arithmetic calculations.
+- Performs Basic Arithmetic calculations.
   - Addition
   - Subtraction
   - Multiplication
